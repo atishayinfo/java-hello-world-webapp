@@ -1,4 +1,4 @@
-// src/main/java/com/example/webapp/HelloService.java
+// Save this as: src/main/java/com/example/webapp/HelloService.java
 package com.example.webapp;
 
 public class HelloService {
