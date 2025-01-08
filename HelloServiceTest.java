@@ -1,10 +1,11 @@
-// src/test/java/com/example/webapp/HelloServiceTest.java
+// Save this as: src/test/java/com/example/webapp/HelloServiceTest.java
 package com.example.webapp;
 
+import junit.framework.TestCase;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class HelloServiceTest {
+public class HelloServiceTest extends TestCase {
     
     private HelloService service = new HelloService();
     
